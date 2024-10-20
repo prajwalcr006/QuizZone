@@ -9,7 +9,7 @@ class MainActivity: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        Log.d("cptn","test")
+        Log.d("cptn","test")sd
 
     }
 }
